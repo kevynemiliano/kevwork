@@ -42,3 +42,8 @@ library(thefinal)
 ### Vignette
 
 To get started, read the fars vignette: `vignette('fars', package = 'Building-an-R-Package')`.
+
+
+### Travis Badge
+
+[![Travis-CI Build Status](https://travis-ci.org/saptarsi-chowdhury/Building-an-R-Package.svg?branch=master)](https://travis-ci.org/saptarsi-chowdhury/Building-an-R-Package)
